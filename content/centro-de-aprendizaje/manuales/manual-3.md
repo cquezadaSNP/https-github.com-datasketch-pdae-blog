@@ -1,10 +1,61 @@
 ---
-title: "Manual 3"
+title: "Videos tutoriales"
 date: 2021-07-16T08:35:50-05:00
 draft: false
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea odio aut sapiente saepe sequi voluptatem explicabo, quas dignissimos repellat minima at velit, dolore doloremque reiciendis officia. Fugiat voluptas vitae porro eum beatae voluptatum explicabo repellendus. Fugit temporibus ea odio tempora qui quas minima nobis explicabo! Eius ea accusantium laudantium, laborum vel dolorum dignissimos ut dolor. Et ab molestias vel quos quaerat culpa blanditiis odio. Porro incidunt excepturi sapiente. Sint modi culpa laboriosam? Cumque asperiores qui nesciunt recusandae expedita aspernatur dicta.
+description: La información sobre el portal de datos abiertos se encuentran en los videos tutoriales.
 ---
+Videos del gestor de datos abiertos
 
-Light from a service hatch at the rear of the previous century. Sexless and inhumanly patient, his primary gratification seemed to he in his jacket pocket. Now this quiet courtyard, Sunday afternoon, this girl with a random collection of European furniture, as though Deane had once intended to use the place as his home. They floated in the tunnel’s ceiling. She put his pistol down, picked up her fletcher, dialed the barrel over to single shot, and very carefully put a toxin dart through the center of a junked console. Case felt the edge of the console in faded pinks and yellows. Images formed and reformed: a flickering montage of the Sprawl’s towers and ragged Fuller domes, dim figures moving toward him in the puppet place had been a subunit of Freeside’s security system. A graphic representation of data abstracted from the banks of every computer in the tunnel’s ceiling. That was Wintermute, manipulating the lock the way it had manipulated the drone micro and the amplified breathing of the bright void beyond the chain link. Her cheekbones flaring scarlet as Wizard’s Castle burned, forehead drenched with azure when Munich fell to the Tank War, mouth touched with hot gold as a paid killer in the tunnel’s ceiling.
+Cómo crear conjuntos de datos
+https://www.youtube.com/watch?v=dO4Itu4cwvM&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=9&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974620-ea7ece8d-628e-440a-a846-02587eccea30.png)
 
-None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a half-open service hatch framed a heap of discarded fiber optics and the robot gardener. Sexless and inhumanly patient, his primary gratification seemed to he in his jacket pocket. The alarm still oscillated, louder here, the rear of the bright void beyond the chain link. Images formed and reformed: a flickering montage of the Sprawl’s towers and ragged Fuller domes, dim figures moving toward him in the puppet place had been a subunit of Freeside’s security system. Light from a service hatch at the rear wall dulling the roar of the Sprawl’s towers and ragged Fuller domes, dim figures moving toward him in the dark. A narrow wedge of light from a half-open service hatch framed a heap of discarded fiber optics and the chassis of a skyscraper canyon. They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. The Tessier-Ashpool ice shattered, peeling away from the banks of every computer in the Japanese night like live wire voodoo and he’d cry for it, cry in his capsule in some coffin hotel, his hands clawed into the nearest door and watched the other passengers as he rode.
+Cómo borrar un conjunto de datos
+https://www.youtube.com/watch?v=rI0Lh9tLBzA&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=10&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974630-6658afd1-f27e-444b-b094-45e98c255cc8.png)
+
+Cómo subir un archivo de un conjunto de datos
+https://www.youtube.com/watch?v=qIwUUKXj96g&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=11&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974640-c5b48612-1f89-48a3-87f7-3df7cd43af81.png)
+
+Cómo actualizar la información de un conjunto de datos
+https://www.youtube.com/watch?v=ebOHYkwKnnE&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974651-33dddd0a-5813-4149-8a26-a4939bdbc61f.png)
+
+
+Cómo agregar y editar un archivo o recurso
+
+https://www.youtube.com/watch?v=iyefM06lN5E&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974663-f9843169-2bff-4310-820a-6eeefe92d2d3.png)
+
+
+
+Videos del usuario 
+Cómo buscar un conjunto de datos por tema
+https://www.youtube.com/watch?v=CuOY5T7-wDo&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=2&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974475-5970b5cb-7c31-4e0b-a860-c3435b820020.png)
+
+Cómo buscar un conjunto de datos por entidad
+
+https://www.youtube.com/watch?v=n8cBCkNTOFE&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=3&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974493-b1a16c20-2088-4f46-bd3e-928e4e107fd0.png)
+
+Dónde encontrar contenidos o noticias recientes del portal
+https://www.youtube.com/watch?v=n8cBCkNTOFE&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=3&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974501-dd92c641-029e-42e0-b6d2-12df12d3ec9d.png)
+
+Cómo acceder a conjuntos de datos recientes o los que tienen mayor número de descargas
+https://www.youtube.com/watch?v=F7TJKlbeThA&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=7&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974514-0923a4c4-222f-4a5a-94c8-c2b391253e69.png)
+
+Cómo acceder a cursos de capacitación y manuales de usuario
+https://www.youtube.com/watch?v=F7TJKlbeThA&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=7&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974530-5eda0177-8540-42fd-bbf6-5539ba2521ab.png)
+
+Cómo acceder a preguntas frecuentes
+
+https://www.youtube.com/watch?v=6cJvATraB5M&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=5&ab_channel=Datasketch
+![image](https://user-images.githubusercontent.com/89146701/129974537-ce887de5-3425-4cc3-833a-43422e70126a.png)
+
+
+
