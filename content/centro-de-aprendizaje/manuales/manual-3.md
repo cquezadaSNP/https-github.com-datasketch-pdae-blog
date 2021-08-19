@@ -20,12 +20,19 @@ https://www.youtube.com/watch?v=ebOHYkwKnnE&ab_channel=Datasketch
 
 
 Cómo agregar y editar un archivo o recurso
-
 https://www.youtube.com/watch?v=iyefM06lN5E&ab_channel=Datasketch
 
 
 
+
+
+
+
+
 Videos del usuario 
+
+
+
 Cómo buscar un conjunto de datos por tema
 https://youtu.be/zqQnD0nSU_I
 
@@ -42,8 +49,7 @@ https://www.youtube.com/watch?v=F7TJKlbeThA&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB
 Cómo acceder a cursos de capacitación y manuales de usuario
 https://www.youtube.com/watch?v=F7TJKlbeThA&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=7&ab_channel=Datasketch
 
-Cómo acceder a preguntas frecuentes
-
+<h4>Cómo acceder a preguntas frecuentes<h4>
 https://www.youtube.com/watch?v=6cJvATraB5M&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=5&ab_channel=Datasketch
 
 
