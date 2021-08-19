@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=iyefM06lN5E&ab_channel=Datasketch
 
 Videos del usuario 
 Cómo buscar un conjunto de datos por tema
-https://www.youtube.com/watch?v=CuOY5T7-wDo&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=2&ab_channel=Datasketch
+https://youtu.be/zqQnD0nSU_I
 
 Cómo buscar un conjunto de datos por entidad
 
