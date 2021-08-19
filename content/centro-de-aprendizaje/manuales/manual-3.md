@@ -34,9 +34,7 @@ Videos del usuario
 
 
 Cómo buscar un conjunto de datos por tema
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zqQnD0nSU_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+{{ < videos >}}
 
 Cómo buscar un conjunto de datos por entidad
 
@@ -51,7 +49,7 @@ https://www.youtube.com/watch?v=F7TJKlbeThA&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB
 Cómo acceder a cursos de capacitación y manuales de usuario
 https://www.youtube.com/watch?v=F7TJKlbeThA&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=7&ab_channel=Datasketch
 
-<h4>Cómo acceder a preguntas frecuentes<h4>
+Cómo acceder a preguntas frecuentes
 https://www.youtube.com/watch?v=6cJvATraB5M&list=PL_K5dhbfg0DowESVMxKa2jpzcBsuqB-0h&index=5&ab_channel=Datasketch
 
 
