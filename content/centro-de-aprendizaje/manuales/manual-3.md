@@ -8,4 +8,3 @@ description: La información sobre el portal de datos abiertos se encuentran en 
 Videos del usuario 
 
 Cómo buscar un conjunto de datos por tema
-{{ < video >}}
