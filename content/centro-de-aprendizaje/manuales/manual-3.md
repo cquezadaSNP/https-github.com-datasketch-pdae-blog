@@ -9,4 +9,4 @@ Videos del usuario
 
 Cómo buscar un conjunto de datos por tema
 
-{{ shortcodes "video" .}}
+{{ shortcodes "video.html" . }}
