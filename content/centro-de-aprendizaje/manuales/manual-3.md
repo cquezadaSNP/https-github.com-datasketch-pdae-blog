@@ -34,7 +34,7 @@ Videos del usuario
 
 
 Cómo buscar un conjunto de datos por tema
-{ { <videos>} }
+{{ < videos >}}
 
 Cómo buscar un conjunto de datos por entidad
 
